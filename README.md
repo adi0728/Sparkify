@@ -4,14 +4,12 @@ Churn is defined as Submit Downgrade or Cancellation Confirmation events. If a u
 
 We calculate the following metrics on which we build our models.
 
-average number of songs per session
-Total number of thumbs down
-Total number of thumbs up
-Total number of errors encountered
-Number of Add to Playlist events
-Number of Add Friends events
-Total number of songs played
-Random Forest Classifier performs the best on the dataset provided which provides a F1 score of 0.7069
+Number of Songs  
+Number of sessions  
+Churn  
+Number of artists  
+
+Random Forest Classifier performs the best on the dataset provided which provides a F1 score of 0.7069  
 
 The code can be found at Sparkify.ipynb
 
@@ -19,7 +17,7 @@ The blog post about the details of the findings can be found at Medium Post
 
 Libraries used:
 
-pySpark
-Pandas
-Seaborn
-Matplotlib
+pySpark  
+Pandas  
+Seaborn  
+Matplotlib  
