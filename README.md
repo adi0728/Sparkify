@@ -11,9 +11,7 @@ Number of artists
 
 Random Forest Classifier performs the best on the dataset provided which provides a F1 score of 0.7069  
 
-The code can be found at Sparkify.ipynb
-
-The blog post about the details of the findings can be found at Medium Post
+The blog post about the details of the findings can be found at Medium Post - https://medium.com/@adithya.papakollu/predicting-churn-with-spark-89289a853e1b
 
 Libraries used:
 
